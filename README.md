@@ -29,6 +29,7 @@
 * REST and Microservices Architecture
 * IA/GenIA
 * NoSQL and SQL
+* Test Automation
 
 ## Academic Background 👨‍💻
 
