@@ -18,7 +18,7 @@
 
 ## Olá, mundo 👋
 
-* My name is Marcos Dalpiaz Varallo. I am a Back-End Developer and Data Analyst passionate about Back-End development, REST APIs, and microservices!
+* My name is Marcos Dalpiaz Varallo. I am a Back-End Developer passionate about Back-End development, REST APIs, and microservices!
 
 * My goal is to become an outstanding back-end developer and data scientist. To achieve this, I am constantly studying and specializing in new technologies through certifications, online courses, and new projects and repositories!
 
