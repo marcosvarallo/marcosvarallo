@@ -1,7 +1,7 @@
 # Marcos Dalpiaz Varallo
 ### Back-End Developer
 
-[![Linkedin Badge](https://img.shields.io/badge/-marcos-dalpiaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-dalpiaz//)](https://www.linkedin.com/in/marcos-dalpiaz/) [![Gmail Badge](https://img.shields.io/badge/-marcosdvarallo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosdvarallo@gmail.com)](mailto:marcosdvarallo@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-marcosdalpiaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-dalpiaz//)](https://www.linkedin.com/in/marcos-dalpiaz/) [![Gmail Badge](https://img.shields.io/badge/-marcosdvarallo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosdvarallo@gmail.com)](mailto:marcosdvarallo@gmail.com)
 ---
 
 <span><img height="35px" src="https://cdn.svgporn.com/logos/java.svg"></span>
