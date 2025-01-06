@@ -29,6 +29,7 @@
 * REST and Microservices Architecture
 * IA/GenIA
 * NoSQL and SQL
+* Messaging (Kafka/RabbitMQ)
 * Test Automation
 
 ## Academic Background 👨‍💻
