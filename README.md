@@ -26,7 +26,7 @@
 
 * Back-End Development
 * Creating REST APIs
-* REST and Microservices Architecture
+* Microservices Architecture
 * IA/GenIA
 * NoSQL and SQL
 * Messaging (Kafka/RabbitMQ)
@@ -40,7 +40,7 @@
 
 * Over 6 years of experience in the tech industry.
 
-* Currently working as a Back-End Developer at Dell Technologies, using technologies such as Java 11, 17, and 21, microservices, REST APIs, Spring Boot, Docker, Docker Compose, PostgreSQL, MongoDB, JWT, Apache Kafka, RabbitMQ, and implementing Design Patterns like Strategy, Factory Method, Singleton, Adapter, Chain of Responsibility, Facade, and SOLID principles.
+* Currently working as a Back-End Developer at Dell Technologies, using technologies such as Java 11, 17, and 21, microservices, REST APIs, Spring Boot, Docker, PostgreSQL, MongoDB, JWT, Apache Kafka, and RabbitMQ.
 
 * Previously worked as a QA Engineer at Dell Technologies, focusing on C#, automation scripts and E2E Testing.
 
